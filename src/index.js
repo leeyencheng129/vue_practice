@@ -3,7 +3,7 @@ import $ from "jquery";
 import "./css/index.css";
 import "./css/index.less";
 
-import logo from "./images/images.png";
+import logo from "@/images/images.png";
 $(".box").attr("src", logo);
 
 $(function () {
